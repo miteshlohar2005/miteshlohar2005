@@ -1,16 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mitesh Ramesh Lohar</h1>
+<h1 align="center">
+  Hi 👋 I'm <b>Mitesh Ramesh Lohar</b>
+</h1>
 
 <h3 align="center">
-🚀 Java Backend Developer | AI Engineer | Final Year Computer Engineering Student
+💻 Java Backend Developer • 🤖 AI Engineer • 🚀 Final Year Computer Engineering Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;AI+Engineer;Spring+Boot+%7C+GenAI+%7C+Computer+Vision;Building+Real-World+AI+Solutions;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Real-World+AI+Solutions;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Docker;AI+%7C+GenAI+%7C+Computer+Vision;Open+Source+Enthusiast+🚀;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miteshlohar2005&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=miteshlohar2005&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/mitesh-ramesh-lohar">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:miteshlohar2019@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/miteshlohar2005">
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+</a>
+</p>
+
+---
 
 ---
 
