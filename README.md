@@ -1,18 +1,18 @@
-<div align="center">
+abhi ye hai :
 
-# Hi 👋 I'm Mitesh Ramesh Lohar
+<h1 align="center">Hi 👋, I'm Mitesh Ramesh Lohar</h1>
 
-### 💻 Java Backend Developer • 🤖 AI Engineer • 🚀 Final Year Computer Engineering Student
+<h3 align="center">
+🚀 Java Backend Developer | AI Engineer | Final Year Computer Engineering Student
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Building+Real-World+AI+Solutions;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Docker;AI+%7C+GenAI+%7C+Computer+Vision;Open+Source+Enthusiast;Always+Learning+Something+New+🚀"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;AI+Engineer;Spring+Boot+%7C+GenAI+%7C+Computer+Vision;Building+Real-World+AI+Solutions;Always+Learning+Something+New" />
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=miteshlohar2005&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miteshlohar2005&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
