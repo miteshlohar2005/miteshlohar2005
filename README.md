@@ -9,6 +9,18 @@
 </p>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Google%20Student%20Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java%20Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=miteshlohar2005&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
